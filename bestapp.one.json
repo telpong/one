@@ -24,7 +24,7 @@
 
 "INTER_COUNT" : 2,
 
-"enable_strap" : false,
+"enable_strap" : true,
 "enable_strap_SplahScreen" : false,
 
 "ads_on_exit_dialog" : true,
@@ -66,7 +66,7 @@
 "Button_Rating" : "RATING NOW",
 
 
-"Exit_Popup_Dialog" : "Agar Kami lebih semangat mengembangkan Aplikasi ini \n\n Bantu kami dengan rating bingtang 5 ya :)",
+"Exit_Popup_Dialog" : "So that we are more enthusiastic about developing this application \n\n Help us with a 5 star rating :)",
 "Rate_Button" : "Rate 5 Stars",
 "Later_Button" : "Rate Later",
 "enable_Share_button" : true,
