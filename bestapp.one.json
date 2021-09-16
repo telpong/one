@@ -18,9 +18,9 @@
 // Mode UNITY       Unity backup Startapp
 // Mode APPLOVIN    Applovin backup Unity Backup Startapp
  // native hanya bisa admob fan appodeal
-"PENGATURAN_IKLAN_banner" : "UNITY",
-"PENGATURAN_IKLAN_inter" : "UNITY",
-"PENGATURAN_IKLAN_native" : "UNITY",
+"PENGATURAN_IKLAN_banner" : "FAN",
+"PENGATURAN_IKLAN_inter" : "FAN",
+"PENGATURAN_IKLAN_native" : "FAN",
 
 "INTER_COUNT" : 2,
 
@@ -46,9 +46,9 @@
 "HPK_ADMOB4" : "Telkomsel",
 "HPK_ADMOB5" : "Donasi",
 
-"FAN_BANNER" : "YOUR_PLACEMENT_ID",
-"FAN_INTER" : "YOUR_PLACEMENT_ID",
-"FAN_NATIVE" : "YOUR_PLACEMENT_ID",
+"FAN_BANNER" : "246620520710404_246625060709950",
+"FAN_INTER" : "246620520710404_246628524042937",
+"FAN_NATIVE" : "246620520710404_246630180709438",
 
 
 "APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
