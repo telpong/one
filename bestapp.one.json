@@ -18,16 +18,16 @@
 // Mode UNITY       Unity backup Startapp
 // Mode APPLOVIN    Applovin backup Unity Backup Startapp
  // native hanya bisa admob fan appodeal
-"PENGATURAN_IKLAN_banner" : "APPODEAL",
+"PENGATURAN_IKLAN_banner" : "ADMOB",
 "PENGATURAN_IKLAN_inter" : "ADMOB",
-"PENGATURAN_IKLAN_native" : "APPODEAL",
+"PENGATURAN_IKLAN_native" : "ADMOB",
 
 "INTER_COUNT" : 2,
 
 "enable_strap" : true,
 "enable_strap_SplahScreen" : false,
 
-"ads_on_exit_dialog" : true,
+"ads_on_exit_dialog" : false,
 
 "Mode_offline_mp3" : false,
 "Enable_Sticky_Notification" : false,
